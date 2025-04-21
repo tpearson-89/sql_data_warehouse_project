@@ -58,11 +58,14 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data) - WORK IN PROGRESS
 │
 ├── docs/                               # Project documentation and architecture details - WORK IN PROGRESS
-│   ├── architecture.png                # Draw.io file shows the project's architecture - WORK IN PROGRESS
+│   ├── dwh_architecture.png            # File shows the project's architecture - WORK IN PROGRESS
+│   ├── design_layer.png                # Project design for each layer - WORK IN PROGRESS
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata - WORK IN PROGRESS
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram - WORK IN PROGRESS
 │   ├── data_models.drawio              # Draw.io file for data models (star schema) - WORK IN PROGRESS
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files - WORK IN PROGRESS
+│   ├── build_layer.png                 # Outline of the build for each layer - WORK IN PROGRESS
+│   ├── analyse_bronze.png              # Queries to understand the source systems - WORK IN PROGRESS
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data - WORK IN PROGRESS
