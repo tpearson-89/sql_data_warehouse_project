@@ -15,7 +15,7 @@ WARNING:
 CREATE DATABASE DataWarehouseProject1;
 
 -- Select the created database
-USE DataWarehouse;
+USE DataWarehouseProject1;
 
 -- Create Schemas
 CREATE SCHEMA bronze;
