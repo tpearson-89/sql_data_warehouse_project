@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to my **Data Warehouse and Analytics Project**!  
-The project aims to construct a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+This project aims to deliver a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
 ---
 ## Data Architecture
